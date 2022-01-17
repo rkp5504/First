@@ -1,4 +1,4 @@
-// Homework 4 - Sales Tax.cpp
+// Sales Tax.cpp
 // Ritesh Patel
 // tax calc program - program that will calculate and display taxes and totals for purchased items.
 
